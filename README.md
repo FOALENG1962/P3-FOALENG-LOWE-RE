@@ -84,6 +84,4 @@ Chaque nouvelles fonctionnalités doit être dans une nouvelle branche.
 La branche doit être valide pour être implémentée.
 
 ## Auteur
-Stéphane LIEUMONT  
-[Projets OpenClassrooms](https://oc.sli-3d.fr/)  
-[Portfolio 3D](https://portfolio.sli-3d.fr/)
+FOALENG LOWE RENE
