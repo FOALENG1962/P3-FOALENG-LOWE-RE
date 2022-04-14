@@ -77,7 +77,7 @@ sass --watch scss/style.scss css/style.css
 
 ## Github Page
 
-[Ohmyfood - Preview](https://stephaneli.github.io/StephaneLieumont_3_10112021/)
+[Ohmyfood - Preview](https://foaleng1962.github.io/P3-FOALENG-LOWE-RE/)
 
 ## Contribution
 Chaque nouvelles fonctionnalités doit être dans une nouvelle branche.  
