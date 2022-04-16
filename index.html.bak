@@ -13,6 +13,7 @@
   <meta name="copyright" content="FOALENG LOWE RENE"/>
   <meta name="robots" content="none" />
   <meta name="author" content="FOALENG LOWE RENE">
+  <!--<link> : l'élément de lien vers des ressources externes-->   
   <link rel="apple-touch-icon" sizes="180x180" href="./images/favicon/apple-touch-icon.png">
   <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon/favicon-32x32.png">
   <link rel="icon" type="image/png" sizes="16x16" href="./images/favicon/favicon-16x16.png">
@@ -21,6 +22,7 @@
   <link rel="stylesheet" href="css/fontawesome/css/all.css">
   <link rel="stylesheet" href="css/normalize.css">
   <link rel="stylesheet" href="css/style.css">
+   <!-- Google Fonts (appelé Google Webfonts avant juin 2013) est un service d’hébergement gratuit de polices d’écritures pour le Web, démarré en 2010.-->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;0,700;0,900;1,300;1,400;1,500;1,700;1,900&family=Shrikhand&display=swap" rel="stylesheet">
