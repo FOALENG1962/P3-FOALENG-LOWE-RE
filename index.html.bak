@@ -1,6 +1,6 @@
 <!DOCTYPE html> <!-- Le Doctype signifie Document Type Declaration  est une instruction qui apparaît obligatoirement au début de  HTML5 pour informer le validateur de la version du langage utilisé, HTML5 -->
 <html lang="fr"><!-- L'elément <html> est l'élément racine d'une page html. lang indique la langue fraçaise -->
-<head><!--Entête du document contient des information relative à la page ----------------------------------------->     
+<head> <!--Entête du document contient des information relative à la page ----------------------------------------->     
    <title>Accueil | Ohmyfood</title> <!--Titre du document html-->    
   <meta charset="UTF-8"> <!--UTF-8, qui signifie "UCS transformation format 8 bits" est un codage de caractères informatiques permettant de coder l'ensemble des caractères internationaux, comme par exemple les accents, les majuscules-->
   <!--La balise meta et plus précisément la balise meta description permet d'ajouter une description d'une page affichée, 
@@ -13,7 +13,7 @@
   <meta name="copyright" content="FOALENG LOWE RENE"/>
   <meta name="robots" content="none" />
   <meta name="author" content="FOALENG LOWE RENE">
-  <!--<link> : l'élément de lien vers des ressources externes-->   
+  <!-- <link> : l'élément de lien vers des ressources externes-->   
   <link rel="apple-touch-icon" sizes="180x180" href="./images/favicon/apple-touch-icon.png">
   <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon/favicon-32x32.png">
   <link rel="icon" type="image/png" sizes="16x16" href="./images/favicon/favicon-16x16.png">
