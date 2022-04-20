@@ -2,14 +2,13 @@
 <html lang="fr">
 
 <head>
-  <title>La palette du goût | Ohmyfood</title>
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="La palette du goût | Commander votre menu et faites vous livré !">
-  <meta name="copyright" content="Foaleng Lowe René" />
+  <meta name="description" content="Le délice des sens | Commander votre menu et faites vous livré !">
+  <meta name="copyright" content="© ohmyfood.com" />
   <meta name="robots" content="none" />
-  <meta name="author" content="Foaleng Lowe René">
+  <meta name="author" content="Stéphane Lieumont">
   <link rel="apple-touch-icon" sizes="180x180" href="../images/favicon/apple-touch-icon.png">
   <link rel="icon" type="image/png" sizes="32x32" href="../images/favicon/favicon-32x32.png">
   <link rel="icon" type="image/png" sizes="16x16" href="../images/favicon/favicon-16x16.png">
@@ -21,7 +20,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;0,700;0,900;1,300;1,400;1,500;1,700;1,900&family=Shrikhand&display=swap" rel="stylesheet">
-  
+  <title>Le délice des sens | Ohmyfood</title>
 </head>
 
 <body>
@@ -33,12 +32,12 @@
   </header>
   <main id="restaurant">
     <div id="restaurant__cover">
-      <img width="400" src="../images/restaurants/jay-wennington-N_Y88TWmGwA-unsplash.jpg" alt="La palette du goût">
+      <img width="400" src="../images/restaurants/louis-hansel-shotsoflouis-qNBGVyOCY8Q-unsplash.jpg" alt="Le délice des sens">
     </div>
     <form id="form-restaurant" class="container--xl">
       <div class="container--flexcol">
         <div id="form-restaurant__title">
-          <h1>La palette du goût</h1>
+          <h1>Le délice des sens</h1>
           <div class="favorite">
             <input type="checkbox" name="favorite" value="false">
             <div class="favorite__bg">
@@ -61,8 +60,8 @@
           <ul class="dishes-list">
             <li class="dish dish--1">
               <div class="dish__desc">
-                <h3>Fricassée d'escargot</h3>
-                <p>Au piment d'Espelette </p>
+                <h3>Tartare de thon</h3>
+                <p>Assaisonné au yuzu</p>
               </div>
               <div class="dish__select">
                 <p>25€</p>
@@ -73,8 +72,8 @@
             </li>
             <li class="dish dish--2">
               <div class="dish__desc">
-                <h3>Foie gras de canard mi-cuit</h3>
-                <p>Et ses copeaux de truffe noire</p>
+                <h3>Bouchée de homard croustillant </h3>
+                <p>Et sa farandole de petits légumes</p>
               </div>
               <div class="dish__select">
                 <p>35€</p>
@@ -85,8 +84,8 @@
             </li>
             <li class="dish dish--3">
               <div class="dish__desc">
-                <h3>Oeuf au plat</h3>
-                <p>Assaisonné à la truffe sur lit de caviar</p>
+                <h3>Velouté de cèpes</h3>
+                <p>Aux truffes</p>
               </div>
               <div class="dish__select">
                 <p>20€</p>
@@ -102,8 +101,8 @@
           <ul class="dishes-list">
             <li class="dish dish--4">
               <div class="dish__desc">
-                <h3>Filet de boeuf aux herbes</h3>
-                <p>Accompagné de sa ribambelle de légumes</p>
+                <h3>Poulet rôti aux herbes de Provence</h3>
+                <p>Et sa crème de truffe</p>
               </div>
               <div class="dish__select">
                 <p>40€</p>
@@ -114,8 +113,8 @@
             </li>
             <li class="dish dish--5">
               <div class="dish__desc">
-                <h3>Parmentier de queue de boeuf</h3>
-                <p>À la truffe noire sur sa purée de panais</p>
+                <h3>Langouste rôtie </h3>
+                <p>Et ses légumes de saison</p>
               </div>
               <div class="dish__select">
                 <p>35€</p>
@@ -126,8 +125,8 @@
             </li>
             <li class="dish dish--6">
               <div class="dish__desc">
-                <h3>Filet de turbot</h3>
-                <p>Aux agrumes</p>
+                <h3>Côte de boeuf Angus</h3>
+                <p>Et sa purée de panais</p>
               </div>
               <div class="dish__select">
                 <p>44€</p>
@@ -143,8 +142,8 @@
           <ul class="dishes-list">
             <li class="dish dish--7">
               <div class="dish__desc">
-                <h3>Paris-Brest</h3>
-                <p>Revisité</p>
+                <h3>Farandole de desserts</h3>
+                <p>Du chef</p>
               </div>
               <div class="dish__select">
                 <p>18€</p>
@@ -155,8 +154,8 @@
             </li>
             <li class="dish dish--8">
               <div class="dish__desc">
-                <h3>Macaron au chocolat d'exception</h3>
-                <p>Et glace à la vanille de Madagascar</p>
+                <h3>Crème brulée</h3>
+                <p>Revisitée</p>
               </div>
               <div class="dish__select">
                 <p>22€</p>
@@ -167,8 +166,8 @@
             </li>
             <li class="dish dish--9">
               <div class="dish__desc">
-                <h3>Mousse au chocolat</h3>
-                <p>Au piment d'Espelette et à la truffe noire</p>
+                <h3>Tiramisu</h3>
+                <p>À la noisette</p>
               </div>
               <div class="dish__select">
                 <p>23€</p>
